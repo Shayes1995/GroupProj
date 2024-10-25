@@ -1,0 +1,15 @@
+C:\Users\Shaya\Desktop\GroupProj\RockPaperScissor\bin\Debug\net8.0\RockPaperScissor.exe
+C:\Users\Shaya\Desktop\GroupProj\RockPaperScissor\bin\Debug\net8.0\RockPaperScissor.deps.json
+C:\Users\Shaya\Desktop\GroupProj\RockPaperScissor\bin\Debug\net8.0\RockPaperScissor.runtimeconfig.json
+C:\Users\Shaya\Desktop\GroupProj\RockPaperScissor\bin\Debug\net8.0\RockPaperScissor.dll
+C:\Users\Shaya\Desktop\GroupProj\RockPaperScissor\bin\Debug\net8.0\RockPaperScissor.pdb
+C:\Users\Shaya\Desktop\GroupProj\RockPaperScissor\obj\Debug\net8.0\RockPaperScissor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shaya\Desktop\GroupProj\RockPaperScissor\obj\Debug\net8.0\RockPaperScissor.AssemblyInfoInputs.cache
+C:\Users\Shaya\Desktop\GroupProj\RockPaperScissor\obj\Debug\net8.0\RockPaperScissor.AssemblyInfo.cs
+C:\Users\Shaya\Desktop\GroupProj\RockPaperScissor\obj\Debug\net8.0\RockPaperScissor.csproj.CoreCompileInputs.cache
+C:\Users\Shaya\Desktop\GroupProj\RockPaperScissor\obj\Debug\net8.0\RockPaperScissor.sourcelink.json
+C:\Users\Shaya\Desktop\GroupProj\RockPaperScissor\obj\Debug\net8.0\RockPaperScissor.dll
+C:\Users\Shaya\Desktop\GroupProj\RockPaperScissor\obj\Debug\net8.0\refint\RockPaperScissor.dll
+C:\Users\Shaya\Desktop\GroupProj\RockPaperScissor\obj\Debug\net8.0\RockPaperScissor.pdb
+C:\Users\Shaya\Desktop\GroupProj\RockPaperScissor\obj\Debug\net8.0\RockPaperScissor.genruntimeconfig.cache
+C:\Users\Shaya\Desktop\GroupProj\RockPaperScissor\obj\Debug\net8.0\ref\RockPaperScissor.dll
